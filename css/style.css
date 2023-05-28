@@ -96,7 +96,6 @@ header a {
   background-position: center center;
   border-color: transparent;
   border-style: solid;
-  transition: background-color: 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
   padding: 15px 50px;
   text-decoration: none; 
 }
@@ -112,7 +111,6 @@ header a {
   border-color: transparent;
   border-style: solid;
   margin: 20px 0px;
-  transition: background-color: 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
   padding: 15px 50px;
   text-decoration: none; 
 }
@@ -121,7 +119,6 @@ header a {
   transform: rotate(352deg);
   color: #903252;
   font-size: 32px;
-  font-family: 'TildaSans',Arial,sans-serif;
   line-height: 1;
   font-weight: 100;
   background-position: center center;
